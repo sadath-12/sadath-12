@@ -1,17 +1,7 @@
 
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Syed Sadath</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,Syed Sadath Here</h1>
 <h3 align="center">Software Engineerring Student</h3>
-
-<p align="center">
-  <em>
-     Syed Sadath Here
-  </em> 
-  <br>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadath-12&label=Profile%20views&color=0e75b6&style=flat" alt="sadath" /> </p>
-
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
