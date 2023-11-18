@@ -1,6 +1,6 @@
 
 <hr>
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,Syed Sadath Here</h1>
+<h1 align="center">Hi Syed Sadath Here</h1>
 <h3 align="center">Software Engineerring Student</h3>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
