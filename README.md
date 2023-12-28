@@ -10,7 +10,8 @@
 ✔ I’m currently working on  **distributed-systems** at scale  <br>
 ✔ I’m looking to collaborate with any **Innovative Ideas**<br>
 ✔ Ask me about anything, I am happy to discuss!😉<br>
- 
+
+ Reach out to me via LinkedIn or mail at sadathsadu2002@gmail.com
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
