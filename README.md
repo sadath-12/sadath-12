@@ -7,7 +7,7 @@
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 ✔ I’m currently doing opensource<br>
-✔ I’m currently working on  **distributed-systems** at scale  <br>
+✔ I’m currently working on  **cilium**   <br>
 ✔ I’m looking to collaborate with any **Innovative Ideas**<br>
 ✔ Ask me about anything, I am happy to discuss!😉<br>
 
