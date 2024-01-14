@@ -1,11 +1,7 @@
 
-<hr>
-<h1 align="center">Hi Syed Sadath Here</h1>
-<h3 align="center">Software Engineerring Student</h3>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+
 ✔ I’m currently doing opensource<br>
 ✔ I’m currently working on  **cilium**   <br>
 ✔ I’m looking to collaborate with any **Innovative Ideas**<br>
@@ -13,8 +9,7 @@
 
  Reach out to me via LinkedIn or mail at sadathsadu2002@gmail.com
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
-<p align="left">
+
   
 
 <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
